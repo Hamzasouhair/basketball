@@ -1,0 +1,12 @@
+html {
+        background-image: url("img/myfavourites.jpg");
+        
+}
+
+body {
+    background-color: rgba(255, 255, 255, 0.522);
+    border: solid;
+    width: 600px;
+    margin: 25px auto;
+    padding: 25px 150px 50px;
+}
